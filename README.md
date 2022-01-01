@@ -7,4 +7,4 @@ The placement of wind turbines in the wind farm is primarily dependent on the wa
 
 This project presents an optimization method using the particle swarm optimization (PSO) for the optimal design of farm layout for the optimization of power output.
 
-The project draft report has been given for better understaning as a pdf
+The project draft report can be achieved as per request  for better understaning 
